@@ -47,8 +47,6 @@
 ---
 
 ### 📢 **Positions of Responsibility**
-
-🎨 **Core Member - Grafiko (IIT Goa’s Design Club)**  
 🎭 Designed **promotional materials** for institute events, increasing engagement & visibility.  
 
 ---
