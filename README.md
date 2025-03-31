@@ -1,6 +1,6 @@
 ## ⚡ Hi there! I'm Devesh Chetiwal ⚡
 
-### 💡 A Passionate VLSI Enthusiast from India 🇮🇳
+### 💡 A Passionate VLSI Enthusiast
 
 🚀 **Final Year Undergraduate** | Electrical Engineering @ **IIT Goa**  
 🔍 Exploring the depths of **ASIC, FPGA, and Digital Circuit Design**  
