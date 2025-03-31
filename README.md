@@ -12,7 +12,7 @@
 
 ### ⚙️ **Technical Skills**
 
-🔌 **Programming:** C, Fortran, MATLAB  
+🔌 **Programming:** C, MATLAB  
 📡 **Electrical Software:** VHDL, Verilog, Quartus, CCS, TI SysConfig Tool, Electric VLSI, LTspice  
 💻 **Hardware & Tools:** Arduino UNO, AutoCAD, SolidWorks, Adobe Illustrator  
 🖥️ **Other Tools:** GitHub, MS Office (Word, Excel)  
