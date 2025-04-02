@@ -5,7 +5,7 @@
 🚀 **Final Year Undergraduate** | Electrical Engineering @ **IIT Goa**  
 🔍 Exploring the depths of **ASIC, FPGA, and Digital Circuit Design**  
 💻 **Currently Working on:** Embedded C & Verilog  
-📖 **Currently Learning:** System Verilog and UVM
+📖 **Currently Learning:** System Verilog and UVM   
 🤝 **Looking to Collaborate on:** Any opportunity in **VLSI & Semiconductor Industry**  
 
 ---
